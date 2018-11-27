@@ -1,6 +1,9 @@
 body {margin:0;
 background-image: linear-gradient(to top, #e5e6e7 10%, #BC070C 100%);}
 
+.container{
+padding-top: 13%;
+}
 ul {
     list-style-type: none;
     margin: 0;
@@ -13,12 +16,19 @@ ul {
 }
 .text{
   position: absolute;
-   bottom: 194px;
-   right: 20px;
-   background-color: black;
-   color: white;
-   padding-left: 20px;
-   padding-right: 20px;
+  right: 0%;
+  background-color: black;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 16px;
+  top: 40%;
+}
+.sida{
+  padding-bottom: 30%;
+  text-align: center;
+  font-size: 200%;
+  font-style: oblique;
 }
 .logo{
   float: left;
@@ -27,8 +37,9 @@ ul {
 li {
     float: left;
 }
+
 h1{
-  font-size: 41px;
+  font-size: 333%;
   text-align: center;
   color: #e5e6e7;
 }
@@ -49,3 +60,6 @@ li a:hover:not(.active) {
 .active {
     background-color: #d6053c;
 }
+@media only screen and (max-width: 500px) {
+    .responsive {
+        width: 100%;
