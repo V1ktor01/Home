@@ -1,6 +1,6 @@
 body {margin:0;
-background-image: linear-gradient(to top, #e5e6e7 10%, #BC070C 100%);}
-
+background-image: linear-gradient(to top, #ff0000 20%, #ffffff 60%)
+}
 .container{
 padding-top: 13%;
 }
@@ -41,7 +41,7 @@ li {
 h1{
   font-size: 333%;
   text-align: center;
-  color: #e5e6e7;
+  color: #260ea1;
 }
 
 li a {
