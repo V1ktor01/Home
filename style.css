@@ -15,20 +15,21 @@ ul {
     width: 100%;
 }
 .text{
-  position: absolute;
   right: 0%;
-  background-color: black;
-  color: white;
-  padding-left: 20px;
-  padding-right: 20px;
-  font-size: 16px;
-  top: 40%;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 100%;
+        position: absolute;
 }
 .sida{
   padding-bottom: 30%;
   text-align: center;
   font-size: 200%;
   font-style: oblique;
+      padding-top: 30%;
+
 }
 .logo{
   float: left;
