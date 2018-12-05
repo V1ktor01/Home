@@ -1,8 +1,15 @@
 body {margin:0;
-background-image: linear-gradient(to top, #ff0000 20%, #ffffff 60%)
+background-image: url("https://coolwallpaper.website/wp-content/uploads/2016/11/Perfect-Bayern-Munich-Wallpaper-These-are-High-Quality-and-High-Definition-HD-Wallpapers-For-PC-Mobile-and-Tablet-world-of-sofas.jpg");
+background-size: 90%;
+
 }
 .container{
-padding-top: 13%;
+text-align: center;
+width: 73vw;
+border: 18px solid #2c287c;
+margin: 10vw;
+background-color: white;
+text-shadow: 0px -1px 1px #a7a7a7;
 }
 ul {
     list-style-type: none;
@@ -16,19 +23,18 @@ ul {
 }
 .text{
   right: 0%;
-    background-color: black;
-    color: white;
-    padding-left: 20px;
-    padding-right: 20px;
-    font-size: 100%;
-        position: absolute;
+  background-color: #2c287c;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 100%;
 }
 .sida{
   padding-bottom: 30%;
   text-align: center;
   font-size: 200%;
   font-style: oblique;
-      padding-top: 30%;
+    
 
 }
 .logo{
