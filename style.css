@@ -34,8 +34,8 @@ ul {
   text-align: center;
   font-size: 100%;
   font-style: oblique;
-  padding-left: 10%;
-  padding-right: 10%;
+  align-items: center;
+  text-align: center;
 }
 .logo{
   float: left;
